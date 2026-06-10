@@ -38,6 +38,8 @@ export RPI_WPA_COUNTRY='GB'
 export RPI_ENABLE_SSH='0'
 
 # x86_64 Only
+export PACMAN_MIRROR=""
+export ENABLE_PACMAN_CACHE="Y"
 export USE_SECUREBOOT="N"
 export SECUREBOOT_MOK_KEY=""
 export SECUREBOOT_MOK_CRT=""
