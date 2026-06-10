@@ -1,3 +1,4 @@
 *.iso
 build/*
 pacman-local-repo.patch
+SecureBootKeys/*
